@@ -1394,6 +1394,7 @@ section,
 --------------------------------------------------------------*/
 .resume .section-header {
   margin-bottom: 2.5rem;
+  
 }
 
 .resume .section-header h2 {
@@ -1403,6 +1404,7 @@ section,
   display: flex;
   align-items: center;
   gap: 0.75rem;
+  /* align-self: center; */
 }
 
 .resume .section-header h2 i {
@@ -1492,9 +1494,10 @@ section,
 .resume .experience-section .experience-cards .experience-card .card-body .achievements li {
   position: relative;
   padding-left: 1.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
   color: color-mix(in srgb, var(--default-color), transparent 15%);
   font-size: 0.9rem;
+
 }
 
 .resume .experience-section .experience-cards .experience-card .card-body .achievements li::before {
