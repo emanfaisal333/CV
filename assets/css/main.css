@@ -749,7 +749,7 @@ section,
 
 .hero .image-container {
   position: relative;
-  max-width: 280px;
+  max-width: 250px;
     aspect-ratio: 1 / 1; 
   width: 100%;
 }
