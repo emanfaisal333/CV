@@ -17,7 +17,7 @@ This website is a digital version of my resume that highlights:
 
 ## 📬 Contact
 Connect with me on:  
-- **LinkedIn:** [linkedIn](www.linkedin.com/in/eman-faisal-4b3b58362)  
+- **LinkedIn:** [linkedIn](https://www.linkedin.com/in/eman-faisal-4b3b58362)  
 - **GitHub:** [GitHub](https://github.com/emanfaisal333)  
 
 
