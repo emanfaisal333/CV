@@ -1,6 +1,26 @@
-Thanks for downloading this template!
+# My Digital CV
 
-Template Name: Style
-Template URL: https://bootstrapmade.com/style-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+A professional **online CV** showcasing my education, skills, and academic projects, built using **HTML, CSS, Bootstrap** and hosted on **GitHub Pages**.  
+
+---
+
+## 📄 About
+This website is a digital version of my resume that highlights:
+- **Educational Background**
+- **Technical Skills & Soft Skills**
+- **Academic & Personal Projects**
+- Links to **project repositories** with detailed READMEs and screenshots
+
+
+
+---
+
+## 📬 Contact
+Connect with me on:  
+- **LinkedIn:** [linkedin.com/in/yourusername](www.linkedin.com/in/eman-faisal-4b3b58362)  
+- **GitHub:** [github.com/yourusername](https://github.com/emanfaisal333)  
+
+
+---
+
+<p align="right">(<a href="#top">back to top</a>)</p>
